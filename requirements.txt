@@ -1,0 +1,6 @@
+python-telegram-bot
+langchain_groq
+langchain_community
+langchain_core
+uuid
+sentence_transformers
